@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&family=Roboto:wght@100&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#wrapper{
+    position:absolute;
+    margin:1000px 1600px 1000px 1000px;
+    padding:100px;
+    border:2px solid black;
+ 
+}
+
+.sec{
+    position:relative;
+    display:flex;
+    justify-content:center;
+
+
+}
+.sec h1{
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sec label{
+
+    color:black;
+    margin-top:0px;
+    margin-left:10px;
+    left:10px;
+    font-size:20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sec input{
+    height:24px;
+    width:234px;
+}
+
+.sec legend{
+    position:absolute;
+    display:flex;
+    justify-content: center;
+    top:-10px;
+    font-size:26px;
+    color : black;
+}
+
+.sec h4{
+    color:black;
+}
+
+
+
+
+#seconde_sec{
+    display:flex;
+    justify-content:center;
+    margin:20px 0 30 px 0px;
+}
+
+.obc{
+    float:left;
+    margin:10px 30px 20px 1.3px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+#first_sec label{
+    margin:0px 0px 0px 120px;
+}
+
+#seconde_sec label{
+    margin:6.1px 30px 0px 0px;
+}
+
+#birthday_sec label{
+    margin:-2.1px 30px 0px 0px;
+}
+#position_sec label{
+    color:blueviolet;
+    margin-top:30px;
+}
+
+#position_sec input{
+    background-color:black;
+    margin:35px 0 0 -30px;
+}
+
+
+
+
+#gender_sec label{
+    margin-top:0px;
+    color:black;
+}
+
+#gender_sec input{
+    margin-top:5px;
+    margin-left:-60px;
+}
+
+.sec_separte{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+#sec_sub_res input{
+    margin-left:15px;
+}
